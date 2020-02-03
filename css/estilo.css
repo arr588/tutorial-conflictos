@@ -13,6 +13,12 @@ h2 {
 }
 
 footer {
+<<<<<<< HEAD
     height: 30px;
     background-color: rgba(0, 255, 221, 0.384);
+=======
+    height: 50px;
+    border-top: 1px gray;
+    background-color: rgba(0, 0, 255, 0.384);
+>>>>>>> refs/remotes/origin/master
 }
